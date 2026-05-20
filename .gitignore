@@ -1,0 +1,19 @@
+# 虚拟环境
+.venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 模型文件
+models/
+
+# 预测结果
+pred.csv
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+.claude/
