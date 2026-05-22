@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "writing-style": {
+      "source": "different-ai/agent-bank",
+      "sourceType": "github",
+      "skillPath": ".opencode/skill/writing-style/SKILL.md",
+      "computedHash": "15c9e0a5b0a96ee560ffe92e2bb5613f2f36f83d37db620674513878f43f7034"
+    }
+  }
+}
